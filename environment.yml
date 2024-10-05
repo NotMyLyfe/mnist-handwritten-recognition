@@ -8,3 +8,4 @@ dependencies:
   - torchaudio
   - torchvision
   - ipykernel
+  - tensorboard
