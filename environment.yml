@@ -1,0 +1,10 @@
+name: mnist-handwritten-recognition
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - pytorch::pytorch
+  - torchaudio
+  - torchvision
+  - ipykernel
